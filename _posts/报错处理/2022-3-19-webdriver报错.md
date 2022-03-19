@@ -15,6 +15,9 @@ browser = webdriver.Chrome()
 下载地址: [http://chromedriver.storage.googleapis.com/index.html](http://chromedriver.storage.googleapis.com/index.html)
 
 如上例报错中可以得知，该Chrome版本为99.0.4844.74
+
 或者可以在Chrome浏览器中输入chrome://version/
 
-![chrome](/images/2022-3-19-webdriver报错/chrome版本.png）
+![chrome](/images/2022-3-19-webdriver报错/chrome版本.png)
+
+在下载页中选择与版本相匹配的chromdriver

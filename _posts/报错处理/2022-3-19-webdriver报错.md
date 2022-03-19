@@ -32,3 +32,17 @@ browser = webdriver.Chrome()
 <img src="/images/2022-3-19-webdriver报错/chromedriver下载(3).png" width="500" height="200"/>
 
 #### 配置
+
+<img src="/images/2022-3-19-webdriver报错/chromedriver下载(4).png" width="500" height="200"/>
+
+将压缩包内的文件解压到python根目录下的script文件夹
+
+<img src="/images/2022-3-19-webdriver报错/chromedriver下载(5).png" width="500" height="50"/>
+
+## 验证
+再次执行最初的代码后可顺利运行。
+```
+from selenium import webdriver
+
+browser = webdriver.Chrome()
+```

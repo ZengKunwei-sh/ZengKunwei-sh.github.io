@@ -21,3 +21,9 @@ browser = webdriver.Chrome()
 ![chrome](/images/2022-3-19-webdriver报错/chrome版本.png)
 
 在下载页中选择与版本相匹配的chromdriver
+
+![chrome](/images/2022-3-19-webdriver报错/chromedriver下载(1).png)
+
+![chrome](/images/2022-3-19-webdriver报错/chromedriver下载(2).png)
+
+![chrome](/images/2022-3-19-webdriver报错/chromedriver下载(3).png)
